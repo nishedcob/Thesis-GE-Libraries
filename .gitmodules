@@ -7,3 +7,6 @@
 [submodule "django-app-lti"]
 	path = django-app-lti
 	url = https://github.com/nishedcob/django-app-lti.git
+[submodule "python-oauth2"]
+	path = python-oauth2
+	url = https://github.com/nishedcob/python-oauth2.git
