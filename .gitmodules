@@ -1,0 +1,3 @@
+[submodule "ims_lti_py"]
+	path = ims_lti_py
+	url = https://github.com/nishedcob/ims_lti_py.git
