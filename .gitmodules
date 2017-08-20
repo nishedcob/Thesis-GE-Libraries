@@ -4,3 +4,6 @@
 [submodule "django-auth-lti"]
 	path = django-auth-lti
 	url = https://github.com/nishedcob/django-auth-lti.git
+[submodule "django-app-lti"]
+	path = django-app-lti
+	url = https://github.com/nishedcob/django-app-lti.git
