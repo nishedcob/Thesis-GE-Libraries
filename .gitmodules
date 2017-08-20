@@ -1,3 +1,6 @@
 [submodule "ims_lti_py"]
 	path = ims_lti_py
 	url = https://github.com/nishedcob/ims_lti_py.git
+[submodule "django-auth-lti"]
+	path = django-auth-lti
+	url = https://github.com/nishedcob/django-auth-lti.git
